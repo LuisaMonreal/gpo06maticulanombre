@@ -15,7 +15,7 @@ int main()
     }
     else
     {
-        cout << "Sus números no están en orden creciente" << endl;
+        printf( "Sus números no están en orden creciente");
         return main();
         
     }
